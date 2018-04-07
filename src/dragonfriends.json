@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "image": "/assets/images/1.jpg",
+    "image": "./assets/images/1.jpg",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "/assets/images/2.jpg",
+    "image": "./assets/images/2.jpg",
     "clicked": false
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "id": 4,
-    "image": "assets/images/4.jpg",
+    "image": "./assets/images/4.jpg",
     "clicked": false
   },
   {
