@@ -1,7 +1,7 @@
 ## Test The Game
 https://robydoidao2006.github.io/ClickyGame/
 
-![](pic.jpg)
+![](pic.png)
 ![](tree.jpg)
 
 
