@@ -17,14 +17,14 @@ https://robydoidao2006.github.io/ClickyGame/
 - If you haven't already, here is the link to the official react website. https://reactjs.org/
  
 ## How to Run the Game Localy
-1)Clone / Download the repository.
-2)Unzip the file.
-3)Open your command line
-4)Cd to the directory 
-5)In the command line do "yarn install" wait...
-6)Then do "yarn start".
-  - Your default browser should open and load the Game automatically.
-  - If not, just open the browser and type "http://localhost:3000/"
+- Clone / Download the repository.
+- Unzip the file.
+- Open your command line
+- Cd to the directory 
+- In the command line do "yarn install" wait...
+- Then do "yarn start".
+ #Your default browser should open and load the Game automatically.
+ #If not, just open the browser and type "http://localhost:3000/"
   
 ## Folder Structure
 
@@ -32,9 +32,9 @@ https://robydoidao2006.github.io/ClickyGame/
 
 
 ## Future Improvements
- 1)Add a real reset button
- - Ass of right now, the button reshesh the page.
- 2)Add winning and losing conditions.
- - When you get all 12 images, a pop-up message should come up saying that you won or lose.
+ - Add a real reset button
+ #Ass of right now, the button reshesh the page.
+ - Add winning and losing conditions.
+ # When you get all 12 images, a pop-up message should come up saying that you won or lose.
  3)Maybe some music ??
 
