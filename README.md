@@ -1,6 +1,10 @@
 ## Test The Game
 https://robydoidao2006.github.io/ClickyGame/
 
+![](pic.png)
+![](tree.jpg)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
