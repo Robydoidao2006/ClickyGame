@@ -23,8 +23,8 @@ https://robydoidao2006.github.io/ClickyGame/
 - Cd to the directory 
 - In the command line do "yarn install" wait...
 - Then do "yarn start".
- #Your default browser should open and load the Game automatically.
- #If not, just open the browser and type "http://localhost:3000/"
+- Your default browser should open and load the Game automatically.
+- If not, just open the browser and type "http://localhost:3000/"
   
 ## Folder Structure
 
@@ -33,8 +33,8 @@ https://robydoidao2006.github.io/ClickyGame/
 
 ## Future Improvements
  - Add a real reset button
- #Ass of right now, the button reshesh the page.
+ - Ass of right now, the button reshesh the page.
  - Add winning and losing conditions.
- #When you get all 12 images, a pop-up message should come up saying that you won or lose.
- -Maybe some music ??
+ - When you get all 12 images, a pop-up message should come up saying that you won or lose.
+ - Maybe some music ??
 
