@@ -35,6 +35,6 @@ https://robydoidao2006.github.io/ClickyGame/
  - Add a real reset button
  #Ass of right now, the button reshesh the page.
  - Add winning and losing conditions.
- # When you get all 12 images, a pop-up message should come up saying that you won or lose.
- 3)Maybe some music ??
+ #When you get all 12 images, a pop-up message should come up saying that you won or lose.
+ -Maybe some music ??
 
